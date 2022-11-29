@@ -1,0 +1,16 @@
+.titulo1 {
+    color: red;
+    font-size: 50px;
+}
+
+#parg {
+    color: green;
+    font-weight: 900;
+}
+
+.myDiv1 {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
